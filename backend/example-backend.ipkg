@@ -1,0 +1,14 @@
+package example-backend
+version = 0.0.1
+authors = "Andre Videla"
+
+-- packages to add to search path
+depends = stellar-http
+
+-- main file
+main = Main
+
+-- name of executable
+executable = example-backend
+opts = "--cg node"
+sourcedir = "src"

@@ -1,0 +1,13 @@
+[custom.all.stellar-api]
+type   = "git"
+url    = "https://gitlab.com/avidela/stellar/"
+commit = "51ed2b24816b08edcd15a2c2ca6d70908abe2f5f"
+ipkg   = "api/stellar-api.ipkg"
+
+[custom.all.stellar-http]
+type   = "git"
+url    = "https://gitlab.com/avidela/stellar/"
+commit = "51ed2b24816b08edcd15a2c2ca6d70908abe2f5f"
+ipkg   = "http/stellar-http.ipkg"
+
+
