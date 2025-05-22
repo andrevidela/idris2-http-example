@@ -3,7 +3,7 @@
 This repo illustrates how to use idris for web development by making a basic HTTP request from a very basic
 frontend sending dummy requests to a basic backend.
 
-This project uses pack for dependency management
+This project uses [pack](https://github.com/stefan-hoeck/idris2-pack/tree/main) for dependency management
 
 ## How to Build the Backend
 
