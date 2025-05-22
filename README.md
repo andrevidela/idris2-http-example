@@ -23,7 +23,7 @@ It should display nothing and appear stuck. Requests will appear once we send th
 
 ## How to Build the Frontend
 
-Leave the backend runnnig and open a new terminal window. Go into `/frontend` and run `build example-frontend.ipkg`.
+Leave the backend running and open a new terminal window. Go into `/frontend` and run `build example-frontend.ipkg`.
 This will compile the frontend into a javascript
 file that you can insert in your web page. Once compiled, your javascript file should be in `build/exec` and
 is called `lib.js`. You can add it as a script with `<script src="build/exec/lib.js></script>`. You can then
